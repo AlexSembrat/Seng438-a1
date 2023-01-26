@@ -16,21 +16,21 @@
 **Table of Contents**
 
 
-[1 Introduction 1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#introduction)
+[1 Introduction ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#introduction)
 
-[2 High-level description of the exploratory testing plan   1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#high-level-description-of-the-exploratory-testing-plan)
+[2 High-level description of the exploratory testing plan   ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#high-level-description-of-the-exploratory-testing-plan)
 
-[3 Comparison of exploratory and manual functional testing  1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#comparison-of-exploratory-and-manual-functional-testing)
+[3 Comparison of exploratory and manual functional testing  ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#comparison-of-exploratory-and-manual-functional-testing)
 
-[4 Notes and discussion of the peer reviews of defect reports   1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
+[4 Notes and discussion of the peer reviews of defect reports   ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
 
 [5 How the pair testing was managed and team work/effort was
-divided 1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
+divided ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned 1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#difficulties-encountered-challenges-overcome-and-lessons-learned)
+learned ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
-[7 Comments/feedback on the lab and lab document itself 1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#commentsfeedback-on-the-lab-and-lab-document-itself)
+[7 Comments/feedback on the lab and lab document itself ](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#commentsfeedback-on-the-lab-and-lab-document-itself)
 
 
 
