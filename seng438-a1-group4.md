@@ -16,7 +16,7 @@
 **Table of Contents**
 
 
-[1 Introduction 1](#_Toc439194677)
+[1 Introduction 1](https://github.com/AlexSembrat/Seng438-a1/blob/main/seng438-a1-group4.md#introduction)
 
 [2 High-level description of the exploratory testing plan   1](#_Toc439194678)
 
